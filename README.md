@@ -26,6 +26,7 @@ A modern, animated restaurant landing page built with Next.js 15, GSAP, and Fram
 - **Font**: Geist Sans & Geist Mono
 
 ## 📁 Project Structure
+```
 drip-and-garlic/
 ├── app/
 │ ├── globals.css # Global styles & Tailwind imports
@@ -49,7 +50,7 @@ drip-and-garlic/
 ├── postcss.config.mjs
 ├── tailwind.config.ts
 └── tsconfig.json
-
+```
 
 ## 🚀 Getting Started
 
