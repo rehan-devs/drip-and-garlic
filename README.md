@@ -205,3 +205,4 @@ MIT License - feel free to use this for your own projects!
 Food images from Unsplash
 Icons and emojis from native system fonts
 Animation inspiration from modern restaurant websites
+<!-- gitpulse:contribution index="1" timestamp="2026-05-10" -->
